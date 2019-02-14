@@ -2,6 +2,7 @@
   "name": "firstreactapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Samcob/firstreactapp.git",
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "gh-pages": "^2.0.1",
