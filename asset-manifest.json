@@ -1,14 +1,14 @@
 {
-  "main.css": "/Samcob/firstreactapp.git/static/css/main.6bd7cc6f.chunk.css",
-  "main.js": "/Samcob/firstreactapp.git/static/js/main.798d395f.chunk.js",
-  "main.js.map": "/Samcob/firstreactapp.git/static/js/main.798d395f.chunk.js.map",
-  "runtime~main.js": "/Samcob/firstreactapp.git/static/js/runtime~main.82c5f542.js",
-  "runtime~main.js.map": "/Samcob/firstreactapp.git/static/js/runtime~main.82c5f542.js.map",
-  "static/js/2.32a8655b.chunk.js": "/Samcob/firstreactapp.git/static/js/2.32a8655b.chunk.js",
-  "static/js/2.32a8655b.chunk.js.map": "/Samcob/firstreactapp.git/static/js/2.32a8655b.chunk.js.map",
-  "index.html": "/Samcob/firstreactapp.git/index.html",
-  "precache-manifest.77592039209b42de69265566973530bd.js": "/Samcob/firstreactapp.git/precache-manifest.77592039209b42de69265566973530bd.js",
-  "service-worker.js": "/Samcob/firstreactapp.git/service-worker.js",
-  "static/css/main.6bd7cc6f.chunk.css.map": "/Samcob/firstreactapp.git/static/css/main.6bd7cc6f.chunk.css.map",
-  "static/media/logo.svg": "/Samcob/firstreactapp.git/static/media/logo.5d5d9eef.svg"
+  "main.css": "/firstreactapp/static/css/main.6bd7cc6f.chunk.css",
+  "main.js": "/firstreactapp/static/js/main.60988329.chunk.js",
+  "main.js.map": "/firstreactapp/static/js/main.60988329.chunk.js.map",
+  "runtime~main.js": "/firstreactapp/static/js/runtime~main.1ebe0b6d.js",
+  "runtime~main.js.map": "/firstreactapp/static/js/runtime~main.1ebe0b6d.js.map",
+  "static/js/2.32a8655b.chunk.js": "/firstreactapp/static/js/2.32a8655b.chunk.js",
+  "static/js/2.32a8655b.chunk.js.map": "/firstreactapp/static/js/2.32a8655b.chunk.js.map",
+  "index.html": "/firstreactapp/index.html",
+  "precache-manifest.8323640eff46d2cdfaba97359537686c.js": "/firstreactapp/precache-manifest.8323640eff46d2cdfaba97359537686c.js",
+  "service-worker.js": "/firstreactapp/service-worker.js",
+  "static/css/main.6bd7cc6f.chunk.css.map": "/firstreactapp/static/css/main.6bd7cc6f.chunk.css.map",
+  "static/media/logo.svg": "/firstreactapp/static/media/logo.5d5d9eef.svg"
 }

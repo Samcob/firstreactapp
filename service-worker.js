@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Samcob/firstreactapp.git/precache-manifest.77592039209b42de69265566973530bd.js"
+  "/firstreactapp/precache-manifest.8323640eff46d2cdfaba97359537686c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Samcob/firstreactapp.git/index.html", {
+workbox.routing.registerNavigationRoute("/firstreactapp/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
